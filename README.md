@@ -1,4 +1,4 @@
-# C-SHELL (mini project)
+# C-SHELL 
 
 Minimal POSIX-style shell written in C.
 
@@ -47,7 +47,4 @@ Known limitations
 - Parsing assumes simple whitespace separation for some operator-edge cases (e.g., `cmd>file`).
 
 See [CHECKLIST.md](CHECKLIST.md) for a detailed mapping of the assignment requirements to the implementation (file/function locations and notes).
-
-Next steps
-- Harden single-quote semantics and add a small automated test suite.
 
